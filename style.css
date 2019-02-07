@@ -1,0 +1,72 @@
+h1 {
+    width: 50%;
+    height: auto;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    
+}
+
+.background {
+    background-color: #231F1F;
+}
+
+#barra {
+    height: 2px;
+    width: 50%;
+    max-width: 700px;
+    background-color: white;
+    margin:0 auto;
+    
+}
+
+#cara {
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover; /*object-fit: cover, nos vale para en una imagen rectangular no perder
+    las proporciones a la hora de redondear dicha imagen*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.contenedorcara {
+    width: 33%;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.song {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.imagensocial {
+    width:100%;
+    height: auto;
+    border-radius: 50%;
+    
+    
+}    
+    
+
+.containerimagen {
+    width: 5%;
+    display: inline-block;
+    margin: 10px;
+    
+}
+
+.social{
+    
+    text-align: center;
+    
+    
+}
